@@ -10,7 +10,7 @@ Over the past two semesters as a Research Team Leader, I have become familiar wi
 
 **Streamline scheduling and expectations**
 <details>
-  <summary>Click for details!</summary>
+  <summary>Click for details</summary>
   
 -Besides our usual Sunday and Monday gatherings, HPOP meetings can be unpredictable in timing especially leading up to question finalization and press release. As Chair, I would create a master schedule each semester including additional meetings going into question finalization and press release and goals for every gathering.
 </details>
@@ -18,7 +18,7 @@ Over the past two semesters as a Research Team Leader, I have become familiar wi
 
 **Improve data visualizations**
 <details>
-  <summary>Click for details!</summary>
+  <summary>Click for details</summary>
   
 -Datawrapper is user friendly but also limited in scope. To better our visualizations and allow for further customization, I propose that we also utilize R. As Chair, I would create a style guide and hold R-based data visualization workshops.
 </details>
@@ -26,7 +26,7 @@ Over the past two semesters as a Research Team Leader, I have become familiar wi
 
 **Increase our publication footprint**
 <details>
-  <summary>Click for details!</summary>
+  <summary>Click for details</summary>
   
 -Our polls are rich with valuable data, but not all of it makes it into the press release. As Chair, I would expand our current publication arrangement with HPR so that if you have an issue you are passionate about, you would be able to easily get published.
 <br>
