@@ -8,8 +8,12 @@ HPOP has been my home at Harvard. From our times in Quincy to L166 and now to Zo
 
 Over the past two semesters as a Research Team Leader, I have become familiar with the inner workings of HPOP. While what we have is fantastic, here are some ways I hope to help bolster our mission:
 
+<details>
+  <summary>Click to expand!</summary>
+
 1. **Streamline scheduling and expectations**
 - Besides our usual Sunday and Monday gatherings, HPOP meetings can be unpredictable in timing especially leading up to question finalization and press release. As Chair, I would create a master schedule each semester including additional meetings going into question finalization and press release and goals for every gathering.
+</details>
 
 2. **Improve data visualizations**
 - Datawrapper is user friendly but also limited in scope. To better our visualizations and allow for further customization, I propose that we also utilize R. As Chair, I would create a style guide and hold R-based data visualization workshops.
