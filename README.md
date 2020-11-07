@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SamuelLowry/HPOP-Chair/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](IMG_0500 3.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Howdy all!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+HPOP has been my home at Harvard. From our times in Quincy to L166 and now to Zoom, I have deeply appreciated the community and been passionate about our mission—to voice the views of our generation. I am continuously blown away by you all. 
 
-```markdown
-Syntax highlighted code block
+Over the past two semesters as a Research Team Leader, I have become familiar with the inner workings of HPOP. While what we have is fantastic, here are some ways I hope to help bolster our mission:
 
-# Header 1
-## Header 2
-### Header 3
+1. **Streamline scheduling and expectations**
+- Besides our usual Sunday and Monday gatherings, HPOP meetings can be unpredictable in timing especially leading up to question finalization and press release. As Chair, I would create a master schedule each semester including additional meetings going into question finalization and press release and goals for every gathering.
 
-- Bulleted
-- List
+2. **Improve data visualizations**
+- Datawrapper is user friendly but also limited in scope. To better our visualizations and allow for further customization, I propose that we also utilize R. As Chair, I would create a style guide and hold R-based data visualization workshops.
 
-1. Numbered
-2. List
+3. **Increase our publication footprint**
+- Our polls are rich with valuable data, but not all of it makes it into the press release. As Chair, I would expand our current publication arrangement with HPR so that if you have an issue you are passionate about, you would be able to easily get published.
+- In addition, our national op-eds are often published weeks after our press release is buzzing in the media. As Chair, I would coordinate with IOP staff in order to publish a national op-ed in tandem with our press release to spread our message ourselves in a more widely accessible format.
 
-**Bold** and _Italic_ and `Code` text
+I am always available at 616-928-5181 if you have any questions
 
-[Link](url) and ![Image](src)
-```
+Thank you, and I hope that I can count on your vote!
+Sam
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+P.S. Here is a [link](https://drive.google.com/file/d/1VWV0zJXrFMlkCTqI-BA1_hM-askEDahb/view) to a video of me going over the same points briefly but in video form!
 
-### Jekyll Themes
+### Voting Information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamuelLowry/HPOP-Chair/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**HPOP election voting will be open from 9am to 11:59pm EST on the Monday, November 16th.** We will be having candidate speeches and a Q&A session that day as well during our normal meeting time of 6-7pm.
