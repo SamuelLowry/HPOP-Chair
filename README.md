@@ -8,8 +8,7 @@ HPOP has been my home at Harvard. From our times in Quincy to L166 and now to Zo
 
 Over the past two semesters as a Research Team Leader, I have become familiar with the inner workings of HPOP. While what we have is fantastic, here are some ways I hope to help bolster our mission:
 
-1. **Streamline scheduling and expectations**
-
+**Streamline scheduling and expectations**
 <details>
   <summary>Click for details!</summary>
   
@@ -17,8 +16,7 @@ Over the past two semesters as a Research Team Leader, I have become familiar wi
 </details>
 
 
-2. **Improve data visualizations**
-
+**Improve data visualizations**
 <details>
   <summary>Click for details!</summary>
   
@@ -26,13 +24,12 @@ Over the past two semesters as a Research Team Leader, I have become familiar wi
 </details>
 
 
-3. **Increase our publication footprint**
-
+**Increase our publication footprint**
 <details>
   <summary>Click for details!</summary>
   
 -Our polls are rich with valuable data, but not all of it makes it into the press release. As Chair, I would expand our current publication arrangement with HPR so that if you have an issue you are passionate about, you would be able to easily get published.
-
+<br>
 -In addition, our national op-eds are often published weeks after our press release is buzzing in the media. As Chair, I would coordinate with IOP staff in order to publish a national op-ed in tandem with our press release to spread our message ourselves in a more widely accessible format.
 </details>
 
