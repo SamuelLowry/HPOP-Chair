@@ -22,6 +22,8 @@ I am always available at 616-928-5181 if you have any questions
 
 Thank you, and I hope that I can count on your vote!
 
+<br>
+
 Sam
 
 
