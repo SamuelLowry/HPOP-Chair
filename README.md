@@ -8,19 +8,32 @@ HPOP has been my home at Harvard. From our times in Quincy to L166 and now to Zo
 
 Over the past two semesters as a Research Team Leader, I have become familiar with the inner workings of HPOP. While what we have is fantastic, here are some ways I hope to help bolster our mission:
 
+1. **Streamline scheduling and expectations**
+
 <details>
-  <summary>1. **Streamline scheduling and expectations**</summary>
+  <summary>Click for details!</summary>
   
 - Besides our usual Sunday and Monday gatherings, HPOP meetings can be unpredictable in timing especially leading up to question finalization and press release. As Chair, I would create a master schedule each semester including additional meetings going into question finalization and press release and goals for every gathering.
-
 </details>
 
+
 2. **Improve data visualizations**
+
+<details>
+  <summary>Click for details!</summary>
+  
 - Datawrapper is user friendly but also limited in scope. To better our visualizations and allow for further customization, I propose that we also utilize R. As Chair, I would create a style guide and hold R-based data visualization workshops.
+</details>
+
 
 3. **Increase our publication footprint**
+
+<details>
+  <summary>Click for details!</summary>
+  
 - Our polls are rich with valuable data, but not all of it makes it into the press release. As Chair, I would expand our current publication arrangement with HPR so that if you have an issue you are passionate about, you would be able to easily get published.
 - In addition, our national op-eds are often published weeks after our press release is buzzing in the media. As Chair, I would coordinate with IOP staff in order to publish a national op-ed in tandem with our press release to spread our message ourselves in a more widely accessible format.
+</details>
 
 I am always available at 616-928-5181 if you have any questions
 
