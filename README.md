@@ -20,12 +20,13 @@ Over the past two semesters as a Research Team Leader, I have become familiar wi
 
 I am always available at 616-928-5181 if you have any questions
 
-Thank you, and I hope that I can count on your vote!
-
 <br>
+
+Thank you, and I hope that I can count on your vote!
 
 Sam
 
+<br>
 
 P.S. Here is a [link](https://drive.google.com/file/d/1VWV0zJXrFMlkCTqI-BA1_hM-askEDahb/view) to a video of me going over the same points briefly but in video form!
 
