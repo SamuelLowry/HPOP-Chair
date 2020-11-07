@@ -21,10 +21,12 @@ Over the past two semesters as a Research Team Leader, I have become familiar wi
 I am always available at 616-928-5181 if you have any questions
 
 Thank you, and I hope that I can count on your vote!
+
 Sam
+
 
 P.S. Here is a [link](https://drive.google.com/file/d/1VWV0zJXrFMlkCTqI-BA1_hM-askEDahb/view) to a video of me going over the same points briefly but in video form!
 
-### Voting Information
+## Voting Information
 
-**HPOP election voting will be open from 9am to 11:59pm EST on the Monday, November 16th.** We will be having candidate speeches and a Q&A session that day as well during our normal meeting time of 6-7pm.
+*HPOP election voting will be open from 9am to 11:59pm EST on the Monday, November 16th.* We will be having candidate speeches and a Q&A session that day as well during our normal meeting time of 6-7pm.
